@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Group18_InClass04</string>
+    <string name="pCount">Select Passwords Count:</string>
+    <string name="pLen">Select Passwords Length:</string>
+    <string name="pwdLbl">Password:</string>
+    <string name="bthLbl_thread">Generate Passwords (Thread)</string>
+    <string name="bthLbl_async">Generate Passwords (Async Task)</string>
+</resources>
